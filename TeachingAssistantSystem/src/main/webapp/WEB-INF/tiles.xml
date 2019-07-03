@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE tiles-definitions PUBLIC
+       "-//Apache Software Foundation//DTD Tiles Configuration 2.0//EN"
+       "http://tiles.apache.org/dtds/tiles-config_2_0.dtd">
+
+
+<tiles-definitions>
+
+
+	<definition template="/WEB-INF/views/layout/template.jsp"
+		name="base.definition">
+		<put-attribute name="title" value="" />
+		<put-attribute name="header" value="/WEB-INF/views/layout/header.jsp" />
+		<put-attribute name="menu" value="/WEB-INF/views/layout/menu.jsp" />
+		<put-attribute name="body" value="" />
+		<put-attribute name="footer" value="/WEB-INF/views/layout/footer.jsp" />
+	</definition>
+	<definition template="/WEB-INF/views/layout/template.jsp"
+		name="login.definition">
+		<put-attribute name="title" value="" />
+		<put-attribute name="header" value="" />
+		<put-attribute name="menu" value="" />
+		<put-attribute name="body" value="" />
+		<put-attribute name="footer" value="" />
+	</definition>
+
+	<definition name="login" extends="login.definition">
+		<put-attribute name="title" value="login" />
+		<put-attribute name="body" value="/WEB-INF/views/login.jsp" />
+	</definition>
+	
+	 <definition name="welcome" extends="base.definition">
+		<put-attribute name="title" value="" />
+			<put-attribute name="body" value="/WEB-INF/views/home.jsp" />
+	</definition>
+	
+	 <definition name="home" extends="base.definition">
+		<put-attribute name="title" value="" />
+			<put-attribute name="body" value="/WEB-INF/views/home.jsp" />
+	</definition>
+	
+	 <definition name="firstyear" extends="base.definition">
+		<put-attribute name="title" value="" />
+			<put-attribute name="body" value="/WEB-INF/views/firstyear.jsp" />
+	</definition>
+	
+	 <definition name="secondyearCS" extends="base.definition">
+		<put-attribute name="title" value="" />
+			<put-attribute name="body" value="/WEB-INF/views/secondyearCS.jsp" />
+	</definition>
+	
+	<definition name="secondyearCT" extends="base.definition">
+		<put-attribute name="title" value="" />
+			<put-attribute name="body" value="/WEB-INF/views/secondyearCT.jsp" />
+	</definition>
+	
+	<definition name="thirdyearCS" extends="base.definition">
+		<put-attribute name="title" value="" />
+			<put-attribute name="body" value="/WEB-INF/views/thirdyearCS.jsp" />
+	</definition>
+	
+	<definition name="fourthyearCS" extends="base.definition">
+		<put-attribute name="title" value="" />
+			<put-attribute name="body" value="/WEB-INF/views/fourthyearCS.jsp" />
+	</definition>
+	
+	<definition name="fifthyearCS" extends="base.definition">
+		<put-attribute name="title" value="" />
+			<put-attribute name="body" value="/WEB-INF/views/fifthyearCS.jsp" />
+	</definition>
+	
+	<definition name="first" extends="base.definition">
+		<put-attribute name="title" value="" />
+			<put-attribute name="body" value="/WEB-INF/views/first.jsp" />
+	</definition>
+	
+	<definition name="second" extends="base.definition">
+		<put-attribute name="title" value="" />
+			<put-attribute name="body" value="/WEB-INF/views/secondcs.jsp" />
+	</definition>
+	
+	<definition name="third" extends="base.definition">
+		<put-attribute name="title" value="" />
+			<put-attribute name="body" value="/WEB-INF/views/thirdcs.jsp" />
+	</definition>
+	
+	<definition name="fourth" extends="base.definition">
+		<put-attribute name="title" value="" />
+			<put-attribute name="body" value="/WEB-INF/views/fourthcs.jsp" />
+	</definition>
+	
+	<definition name="firstyearcsbook" extends="base.definition">
+		<put-attribute name="title" value="" />
+			<put-attribute name="body" value="/WEB-INF/views/firstyearbook.jsp" />
+	</definition>
+	
+	<definition name="secondyearcsbook" extends="base.definition">
+		<put-attribute name="title" value="" />
+			<put-attribute name="body" value="/WEB-INF/views/secondyearcsbook.jsp" />
+	</definition>
+	<definition name="secondyearctbook" extends="base.definition">
+		<put-attribute name="title" value="" />
+			<put-attribute name="body" value="/WEB-INF/views/secondyearctbook.jsp" />
+	</definition>
+	<definition name="thirdyearcsbook" extends="base.definition">
+		<put-attribute name="title" value="" />
+			<put-attribute name="body" value="/WEB-INF/views/thirdyearcsbook.jsp" />
+	</definition>
+	<definition name="thirdyearctbook" extends="base.definition">
+		<put-attribute name="title" value="" />
+			<put-attribute name="body" value="/WEB-INF/views/thirdyearctbook.jsp" />
+	</definition>
+	
+	<definition name="fourthyearcsbook" extends="base.definition">
+		<put-attribute name="title" value="" />
+			<put-attribute name="body" value="/WEB-INF/views/fourthyearcsbook.jsp" />
+	</definition>
+	<definition name="fourthyearctbook" extends="base.definition">
+		<put-attribute name="title" value="" />
+			<put-attribute name="body" value="/WEB-INF/views/fourthyearctbook.jsp" />
+	</definition>
+	<definition name="fifthyearcsbook" extends="base.definition">
+		<put-attribute name="title" value="" />
+			<put-attribute name="body" value="/WEB-INF/views/fifthyearcsbook.jsp" />
+	</definition>
+	<definition name="fifthyearctbook" extends="base.definition">
+		<put-attribute name="title" value="" />
+			<put-attribute name="body" value="/WEB-INF/views/fifthyearctbook.jsp" />
+	</definition>
+	
+	<definition name="studentmanagement" extends="base.definition">
+		<put-attribute name="title" value="" />
+			<put-attribute name="body" value="/WEB-INF/views/studentmanagement.jsp" />
+	</definition>
+	<definition name="teachermanagement" extends="base.definition">
+		<put-attribute name="title" value="" />
+			<put-attribute name="body" value="/WEB-INF/views/teachermanagement.jsp" />
+	</definition>
+	<definition name="bookmanagement" extends="base.definition">
+		<put-attribute name="title" value="" />
+			<put-attribute name="body" value="/WEB-INF/views/bookmanagement.jsp" />
+	</definition>
+
+
+</tiles-definitions>
