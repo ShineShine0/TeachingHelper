@@ -27,27 +27,13 @@
 
 <li><a href="#"><b>HOME</b></a>
 
-</li><li><a href="#"><b>LEARNING</b></a>
-<ul>
-<li><a href="#"><b>MYANMAR</b></a></li>
-<li><a href="#"><b>ENGLISH</b></a></li>
-<li><a href="#"><b>PHYSICS</b></a></li>
-<li><a href="#"><b>OOP(101)</b></a></li>
-<li><a href="#"><b>MATHEMATICS(102)</b></a></li>
-</ul>
-</li><li><a href="#"><b>ACTIVITIES</b></a>
-<ul>
-<li><a href="#"><b>CLASS ACTIVITIES</b></a></li>
-<li><a href="#"><b>UNIVERSITY ACTIVITIES</b></a></li>
+</li><li><a href="learning.htm"><b>LEARNING</b></a>
+</li><li><a href="activities.htm"><b>ACTIVITIES</b></a>
 
-</ul>
-</li><li><a href="#"><b>ATTENDANCE</b></a>
-<ul>
-<li><a href="#"><b>SUBJECT ATTENDANCE</b></a></li>
-<li><a href="#"><b>TOTAL ATTENDACNE</b></a></li>
+</li><li><a href="attendance.htm"><b>ATTENDANCE</b></a>
 
-</ul>
 </li>
+</ul>
 </div>
 
 

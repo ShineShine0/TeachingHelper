@@ -17,7 +17,7 @@
 <div id="content-header">
  <div id="breadcrumb" style="color:gray"> 
  <a href="welcome.htm" title="Go to Home" class="tip-bottom" style="color:white" style="fontsize:large"><b><i class="icon-home"></i> Home</b></a> 
- <a href="#" class="tip-bottom" style="color:white" style="fontsize:large"><b>FIFTH YEAR CS</b></a> 
+ <a href="fifthyear.htm" class="tip-bottom" style="color:white" style="fontsize:large"><b>FIFTH YEAR CS</b></a> 
 
 </div>
 
@@ -26,31 +26,11 @@
 
 <li><a href="#"><b>HOME</b></a>
 
-</li><li><a href="#"><b>TEACHING</b></a>
-<ul>
-
-<li><a href="#">ENGLISH</a></li>
-
-<li><a href="#" ><b>MATHEMATICS(501)</b></a></li>
-<li><a href="#"><b>DS AND AN(502)</b></a></li>
-<li><a href="#"><b>IAS(503</b>)</a></li>
-<li><a href="#"><b>AI / NLP / AA / CG(504)</b></a></li>
-<li><a href="#"><b>WE / DM / ERP(505)</b></a></li>
-
-</ul>
-</li><li><a href="#"><b>ACTIVITIES</b></a>
-<ul>
-<li><a href="#"><b>CLASS ACTIVITIES</b></a></li>
-<li><a href="#"><b>UNIVERSITY ACTIVITIES</b></a></li>
-
-</ul>
-</li><li><a href="#"><b>ATTENDANCE</b></a>
-<ul>
-<li><a href="#"><b>SUBJECT ATTENDANCE</b></a></li>
-<li><a href="#"><b>TOTAL ATTENDACNE</b></a></li>
-
-</ul>
+</li><li><a href="teachingfifthcs.htm"><b>TEACHING</b></a>
+</li><li><a href="teachingactivitiesfifthcs.htm"><b>ACTIVITIES</b></a>
+</li><li><a href="teachingattendancefifthcs.htm"><b>ATTENDANCE</b></a>
 </li>
+</ul>
 </div>
 <h1 ><center > <p style="color:black" style=background-color:gray ><b>HELLO ALL FIFTHYEAR CS STUDENTS</b></p></center></h1>
 <marquee WIDTH=1150 HEIGHT=120 BEHAVIOR=SCROLL BGCOLOR=GRAY ><h1 ><center > 

@@ -26,29 +26,11 @@
 <li><a href="#"><b>HOME</b></a>
 
 </li><li><a href="#"><b>LEARNING</b></a>
-<ul>
-<li><a href="#">ENGLISH</a></li>
-<li><a href="#">COMPUTER ORGANIZATION AND ASSEMBLY LANGUAGE(301)</a></li>
-<li><a href="#">MATHEMATICS(302)</a></li>
-<li><a href="#">DATA AND COMPUTER COMMUNICATION(303)</a></li>
-<li><a href="#">ELECTRONICS(304)</a></li>
-<li><a href="#">LINEAR CONTROL SYSTEM(305)</a></li>
-<li><a href="#">ELECTRICAL CIRCUITS(306)</a></li>
-
-</ul>
 </li><li><a href="#"><b>ACTIVITIES</b></a>
-<ul>
-<li><a href="#">CLASS ACTIVITIES</a></li>
-<li><a href="#">UNIVERSITY ACTIVITIES</a></li>
-
-</ul>
 </li><li><a href="#"><b>ATTENDANCE</b></a>
-<ul>
-<li><a href="#">SUBJECT ATTENDANCE</a></li>
-<li><a href="#">TOTAL ATTENDACNE</a></li>
-
-</ul>
 </li>
+</ul>
+
 </div>
 
    <h1 ><center > <p style="color:black" style=background-color:gray ><b>HELLO ALL THIRDYEAR CT STUDENTS</b></p></center></h1>

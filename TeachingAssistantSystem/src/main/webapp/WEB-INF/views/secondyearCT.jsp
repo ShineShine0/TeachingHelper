@@ -25,30 +25,12 @@
 
 <li><a href="#"><b>HOME</b></a>
 
-</li><li><a href="#"><b>LEARNING</b></a>
-<ul>
-
-<li><a href="#">ENGLISH</a></li>
-<li><a href="#">JAVA(201)</a></li>
-<li><a href="#">MATHEMATICS(202)</a></li>
-<li><a href="#">DIGITAL LOGIC FUNDAMENTALS(203)</a></li>
-<li><a href="#">DATABASE MANAGEMENT SYSTEM(204)</a></li>
-<li><a href="#">COMPUTER APPLICATION TECHNIQUES(WP)(205)</a></li>
-<li><a href="#">ELECTRICAL CIRCUITS(206)</a></li>
-</ul>
-</li><li><a href="#"><b>ACTIVITIES</b></a>
-<ul>
-<li><a href="#">CLASS ACTIVITIES</a></li>
-<li><a href="#">UNIVERSITY ACTIVITIES</a></li>
-
-</ul>
-</li><li><a href="#"><b>ATTENDANCE</b></a>
-<ul>
-<li><a href="#">SUBJECT ATTENDANCE</a></li>
-<li><a href="#">TOTAL ATTENDACNE</a></li>
-
-</ul>
+</li><li><a href="learning.htm"><b>LEARNING</b></a>
+</li><li><a href="activities.htm"><b>ACTIVITIES</b></a>
+</li><li><a href="attendance.htm"><b>ATTENDANCE</b></a>
 </li>
+</ul>
+
 </div>
 
    <h1 ><center > <p style="color:black" style=background-color:gray ><b>HELLO ALL SECONDYEAR CT STUDENTS</b></p></center></h1>

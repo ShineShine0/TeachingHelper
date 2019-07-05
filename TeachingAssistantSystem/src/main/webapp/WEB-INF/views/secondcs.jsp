@@ -26,30 +26,11 @@
 
 <li><a href="#"><b>HOME</b></a>
 
-</li><li><a href="#"><b>TEACHING</b></a>
-<ul>
-
-<li><a href="#">ENGLISH</a></li>
-<li><a href="#">JAVA(201)</a></li>
-<li><a href="#">MATHEMATICS(202)</a></li>
-<li><a href="#">DATA STRUCIURE(203)</a></li>
-<li><a href="#">OOSD(204)</a></li>
-<li><a href="#">HCI/JS(205)</a></li>
-<li><a href="#">SE/SAD(206)</a></li>
-</ul>
-</li><li><a href="#"><b>ACTIVITIES</b></a>
-<ul>
-<li><a href="#">CLASS ACTIVITIES</a></li>
-<li><a href="#">UNIVERSITY ACTIVITIES</a></li>
-
-</ul>
-</li><li><a href="#"><b>ATTENDANCE</b></a>
-<ul>
-<li><a href="#">SUBJECT ATTENDANCE</a></li>
-<li><a href="#">TOTAL ATTENDACNE</a></li>
-
-</ul>
+</li><li><a href="teachingsecondcs.htm"><b>TEACHING</b></a>
+</li><li><a href="teachingactivitiessecondcs.htm"><b>ACTIVITIES</b></a>
+</li><li><a href="teachingattendancesecondcs.htm"><b>ATTENDANCE</b></a>
 </li>
+</ul>
 </div>
 
    <h1 ><center > <p style="color:black" style=background-color:gray ><b>HELLO ALL SECONDYEAR CS STUDENTS</b></p></center></h1>

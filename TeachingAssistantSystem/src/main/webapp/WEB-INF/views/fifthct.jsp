@@ -26,30 +26,11 @@
 <li><a href="#"><b>HOME</b></a>
 
 </li><li><a href="#"><b>LEARNING</b></a>
-<ul>
-
-<li><a href="#">ENGLISH</a></li>
-
-<li><a href="#">MATHEMATICS(501)</a></li>
-<li><a href="#">DS AND AN(502)</a></li>
-<li><a href="#">CSF(503)</a></li>
-<li><a href="#">ES / NS(504)</a></li>
-<li><a href="#">IP AND CV / DSP(505)</a></li>
-<li><a href="#"></a></li>
-</ul>
 </li><li><a href="#"><b>ACTIVITIES</b></a>
-<ul>
-<li><a href="#">CLASS ACTIVITIES</a></li>
-<li><a href="#">UNIVERSITY ACTIVITIES</a></li>
-
-</ul>
 </li><li><a href="#"><b>ATTENDANCE</b></a>
-<ul>
-<li><a href="#">SUBJECT ATTENDANCE</a></li>
-<li><a href="#">TOTAL ATTENDACNE</a></li>
 
-</ul>
 </li>
+</ul>
 </div>
 <h1 ><center > <p style="color:black" style=background-color:gray ><b>HELLO ALL FIFTHYEAR CT STUDENTS</b></p></center></h1>
 <marquee WIDTH=1150 HEIGHT=120 BEHAVIOR=SCROLL BGCOLOR=GRAY ><h1 ><center > 

@@ -9,41 +9,41 @@ public class BookContoller {
 
 	
 	@RequestMapping(value = "/firstcsbook.htm")
-	public String FirstYearBook(Model model) {
+	public String firstyearbook(Model model) {
 		return "firstyearcsbook";
 	}
 	@RequestMapping(value = "/secondcsbook.htm")
-	public String SecondYearCSBook(Model model) {
+	public String secondtearCSbook(Model model) {
 		return "secondyearcsbook";
 	}
 	
 	@RequestMapping(value = "/secondctbook.htm")
-	public String SecondYearCTBook(Model model) {
+	public String secondyearCTbook(Model model) {
 		return "secondyearctbook";
 	}
 	
 	@RequestMapping(value = "/thirdcsbook.htm")
-	public String ThirdYearCSBook(Model model) {
+	public String thirdyearCSbook(Model model) {
 		return "thirdyearcsbook";
 	}
 	@RequestMapping(value = "/thirdctbook.htm")
-	public String ThirdYearCTBook(Model model) {
+	public String thirdyearCTbook(Model model) {
 		return "thirdyearctbook";
 	}
 	@RequestMapping(value = "/fourthcsbook.htm")
-	public String FourthYearCSBook(Model model) {
+	public String fourthyearCSbook(Model model) {
 		return "fourthyearcsbook";
 	}
 	@RequestMapping(value = "/fourthctbook.htm")
-	public String FourthYearCTBook(Model model) {
+	public String fourthyearCTbook(Model model) {
 		return "fourthyearctbook";
 	}
 	@RequestMapping(value = "/fifthcsbook.htm")
-	public String FifthYearCSBook(Model model) {
-		return "firstyearcsbook";
+	public String fifthyearCSbook(Model model) {
+		return "fifthyearcsbook";
 	}
 	@RequestMapping(value = "/fifthctbook.htm")
-	public String FifthYearCTBook(Model model) {
-		return "firstyearcsbook";
+	public String fifthyearCTbook(Model model) {
+		return "fifthyearctbook";
 	}
 }

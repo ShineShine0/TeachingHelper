@@ -88,6 +88,12 @@
 		<put-attribute name="title" value="" />
 			<put-attribute name="body" value="/WEB-INF/views/fourthcs.jsp" />
 	</definition>
+		<definition name="fifth" extends="base.definition">
+		<put-attribute name="title" value="" />
+			<put-attribute name="body" value="/WEB-INF/views/fifthcs.jsp" />
+	</definition>
+	
+	
 	
 	<definition name="firstyearcsbook" extends="base.definition">
 		<put-attribute name="title" value="" />
@@ -139,6 +145,172 @@
 	<definition name="bookmanagement" extends="base.definition">
 		<put-attribute name="title" value="" />
 			<put-attribute name="body" value="/WEB-INF/views/bookmanagement.jsp" />
+	</definition>
+	
+	<definition name="learning" extends="base.definition">
+		<put-attribute name="title" value="" />
+			<put-attribute name="body" value="/WEB-INF/views/learning.jsp" />
+	</definition>
+	<definition name="learningsecondcs" extends="base.definition">
+		<put-attribute name="title" value="" />
+			<put-attribute name="body" value="/WEB-INF/views/learningsecondcs.jsp" />
+	</definition>
+	<definition name="learningsecondct" extends="base.definition">
+		<put-attribute name="title" value="" />
+			<put-attribute name="body" value="/WEB-INF/views/learningsecondct.jsp" />
+	</definition>
+	<definition name="learningthirdcs" extends="base.definition">
+		<put-attribute name="title" value="" />
+			<put-attribute name="body" value="/WEB-INF/views/learningthirdcs.jsp" />
+	</definition>
+	<definition name="learningthirdct" extends="base.definition">
+		<put-attribute name="title" value="" />
+			<put-attribute name="body" value="/WEB-INF/views/learningthirdct.jsp" />
+	</definition>
+	<definition name="learningfourthcs" extends="base.definition">
+		<put-attribute name="title" value="" />
+			<put-attribute name="body" value="/WEB-INF/views/learningfourthcs.jsp" />
+	</definition>
+	<definition name="learningfourthct" extends="base.definition">
+		<put-attribute name="title" value="" />
+			<put-attribute name="body" value="/WEB-INF/views/learningfourthct.jsp" />
+	</definition>
+	<definition name="learningfifthcs" extends="base.definition">
+		<put-attribute name="title" value="" />
+			<put-attribute name="body" value="/WEB-INF/views/learningfifthcs.jsp" />
+	</definition>
+	<definition name="learningfifthct" extends="base.definition">
+		<put-attribute name="title" value="" />
+			<put-attribute name="body" value="/WEB-INF/views/learningfifthct.jsp" />
+	</definition>
+	
+	
+	<definition name="activities" extends="base.definition">
+		<put-attribute name="title" value="" />
+			<put-attribute name="body" value="/WEB-INF/views/activities.jsp" />
+	</definition>
+	<definition name="activitiessecondcs" extends="base.definition">
+		<put-attribute name="title" value="" />
+			<put-attribute name="body" value="/WEB-INF/views/activitiessecondcs.jsp" />
+	</definition>
+	<definition name="activitiesthirdcs" extends="base.definition">
+		<put-attribute name="title" value="" />
+			<put-attribute name="body" value="/WEB-INF/views/activitiesthirdcs.jsp" />
+	</definition>
+	<definition name="activitiesfourthcs" extends="base.definition">
+		<put-attribute name="title" value="" />
+			<put-attribute name="body" value="/WEB-INF/views/activitiesfourthcs.jsp" />
+	</definition>
+	<definition name="activitiesfifthcs" extends="base.definition">
+		<put-attribute name="title" value="" />
+			<put-attribute name="body" value="/WEB-INF/views/activitiesfifthcs.jsp" />
+	</definition>
+	
+	
+	<definition name="attendance" extends="base.definition">
+		<put-attribute name="title" value="" />
+			<put-attribute name="body" value="/WEB-INF/views/attendance.jsp" />
+	</definition>
+	<definition name="attendancesecondcs" extends="base.definition">
+		<put-attribute name="title" value="" />
+			<put-attribute name="body" value="/WEB-INF/views/attendancesecondcs.jsp" />
+	</definition>
+	<definition name="attendancethirdcs" extends="base.definition">
+		<put-attribute name="title" value="" />
+			<put-attribute name="body" value="/WEB-INF/views/attendancethirdcs.jsp" />
+	</definition>
+	<definition name="attendancefourthcs" extends="base.definition">
+		<put-attribute name="title" value="" />
+			<put-attribute name="body" value="/WEB-INF/views/attendancefourthcs.jsp" />
+	</definition>
+	<definition name="attendancefifthcs" extends="base.definition">
+		<put-attribute name="title" value="" />
+			<put-attribute name="body" value="/WEB-INF/views/attendancefifthcs.jsp" />
+	</definition>
+	
+	
+	
+	
+	
+	<definition name="teacherlearningfirst" extends="base.definition">
+		<put-attribute name="title" value="" />
+			<put-attribute name="body" value="/WEB-INF/views/teacherlearningfirst.jsp" />
+	</definition>
+	<definition name="teacherlearningsecondcs" extends="base.definition">
+		<put-attribute name="title" value="" />
+			<put-attribute name="body" value="/WEB-INF/views/teacherlearningsecondcs.jsp" />
+	</definition>
+	<!-- <definition name="teacherlearningsecondct" extends="base.definition">
+		<put-attribute name="title" value="" />
+			<put-attribute name="body" value="/WEB-INF/views/teacherlearningsecondct.jsp" />
+	</definition> -->
+	<definition name="teacherlearningthirdcs" extends="base.definition">
+		<put-attribute name="title" value="" />
+			<put-attribute name="body" value="/WEB-INF/views/teacherlearningthirdcs.jsp" />
+	</definition>
+	<!-- <definition name="teacherlearningthirdct" extends="base.definition">
+		<put-attribute name="title" value="" />
+			<put-attribute name="body" value="/WEB-INF/views/teacherlearningthirdct.jsp" />
+	</definition> -->
+	<definition name="teacherlearningfourthcs" extends="base.definition">
+		<put-attribute name="title" value="" />
+			<put-attribute name="body" value="/WEB-INF/views/teacherlearningfourthcs.jsp" />
+	</definition>
+	<!-- <definition name="teacherlearningfourthct" extends="base.definition">
+		<put-attribute name="title" value="" />
+			<put-attribute name="body" value="/WEB-INF/views/teacherlearningfourthct.jsp" />
+	</definition> -->
+	<definition name="teacherlearningfifthcs" extends="base.definition">
+		<put-attribute name="title" value="" />
+			<put-attribute name="body" value="/WEB-INF/views/teacherlearningfifthcs.jsp" />
+	</definition>
+	<!-- <definition name="teacherlearningfifthct" extends="base.definition">
+		<put-attribute name="title" value="" />
+			<put-attribute name="body" value="/WEB-INF/views/teacherlearningfifthct.jsp" />
+	</definition> -->
+	
+	
+	<definition name="teacheractivitiesfirst" extends="base.definition">
+		<put-attribute name="title" value="" />
+			<put-attribute name="body" value="/WEB-INF/views/teacheractivitiesfirst.jsp" />
+	</definition>
+	<definition name="teacheractivitiessecondcs" extends="base.definition">
+		<put-attribute name="title" value="" />
+			<put-attribute name="body" value="/WEB-INF/views/teacheractivitiessecondcs.jsp" />
+	</definition>
+	<definition name="teacheractivitiesthirdcs" extends="base.definition">
+		<put-attribute name="title" value="" />
+			<put-attribute name="body" value="/WEB-INF/views/teacheractivitiesthirdcs.jsp" />
+	</definition>
+	<definition name="teacheractivitiesfourthcs" extends="base.definition">
+		<put-attribute name="title" value="" />
+			<put-attribute name="body" value="/WEB-INF/views/teacheractivitiesfourthcs.jsp" />
+	</definition>
+	<definition name="teacheractivitiesfifthcs" extends="base.definition">
+		<put-attribute name="title" value="" />
+			<put-attribute name="body" value="/WEB-INF/views/teacheractivitiesfifthcs.jsp" />
+	</definition>
+	
+	
+	<definition name="teacherattendancefirst" extends="base.definition">
+		<put-attribute name="title" value="" />
+			<put-attribute name="body" value="/WEB-INF/views/teacherattendancefirst.jsp" />
+	</definition>
+	<definition name="teacherattendancesecondcs" extends="base.definition">
+		<put-attribute name="title" value="" />
+			<put-attribute name="body" value="/WEB-INF/views/teacherattendancesecondcs.jsp" />
+	</definition>
+	<definition name="teacherattendancethirdcs" extends="base.definition">
+		<put-attribute name="title" value="" />
+			<put-attribute name="body" value="/WEB-INF/views/teacherattendancethirdcs.jsp" />
+	</definition>
+	<definition name="teacherattendancefourthcs" extends="base.definition">
+		<put-attribute name="title" value="" />
+			<put-attribute name="body" value="/WEB-INF/views/teacherattendancefourthcs.jsp" />
+	</definition>
+	<definition name="teacherattendancefifthcs" extends="base.definition">
+		<put-attribute name="title" value="" />
+			<put-attribute name="body" value="/WEB-INF/views/teacherattendancefifthcs.jsp" />
 	</definition>
 
 

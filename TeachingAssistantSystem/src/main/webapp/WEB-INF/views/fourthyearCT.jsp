@@ -25,30 +25,12 @@
 
 <li><a href="#"><b>HOME</b></a>
 
-</li><li><a href="#"><b>LEARNING</b></a>
-<ul>
-
-<li><a href="#">ENGLISH</a></li>
-<li><a href="#">ARTIFICIAL INTELLIGENCE(401)</a></li>
-<li><a href="#">MATHEMATICS(402)</a></li>
-<li><a href="#">INTRODUCTION TO MICROCONTROLLERS(403)</a></li>
-<li><a href="#">COMPUTER ARCHITECTURE(404)</a></li>
-<li><a href="#">CONTROL SYSTEM(405)</a></li>
-<li><a href="#">DATA AND COMPUTER COMMUNICATION(406)</a></li>
-</ul>
-</li><li><a href="#"><b>ACTIVITIES</b></a>
-<ul>
-<li><a href="#">CLASS ACTIVITIES</a></li>
-<li><a href="#">UNIVERSITY ACTIVITIES</a></li>
-
-</ul>
-</li><li><a href="#"><b>ATTENDANCE</b></a>
-<ul>
-<li><a href="#">SUBJECT ATTENDANCE</a></li>
-<li><a href="#">TOTAL ATTENDACNE</a></li>
-
-</ul>
+</li><li><a href="learning.htm"><b>LEARNING</b></a>
+</li><li><a href="activities.htm"><b>ACTIVITIES</b></a>
+</li><li><a href="attendance.htm"><b>ATTENDANCE</b></a>
 </li>
+</ul>
+
 </div>
 <h1 ><center > <p style="color:black" style=background-color:gray ><b>HELLO ALL FOURTHYEAR CT STUDENTS</b></p></center></h1>
 <marquee WIDTH=1150 HEIGHT=120 BEHAVIOR=SCROLL BGCOLOR=GRAY ><h1 ><center > 

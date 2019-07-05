@@ -9,17 +9,17 @@ public class ManagementController {
 
 	
 	@RequestMapping(value = "/studentmanagement.htm")
-	public String StudentManagement(Model model) {
+	public String studentManagement(Model model) {
 		return "studentmanagement";
 	}
 
 	@RequestMapping(value = "/teachermanagement.htm")
-	public String TeacherManagement(Model model) {
+	public String teacherManagement(Model model) {
 		return "teachermanagement";
 	}
 
 	@RequestMapping(value = "/bookmanagement.htm")
-	public String BookManagement(Model model) {
+	public String dookManagement(Model model) {
 		return "bookmanagement";
 	}
 }

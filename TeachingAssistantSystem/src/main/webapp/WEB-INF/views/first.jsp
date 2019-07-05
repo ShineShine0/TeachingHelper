@@ -25,27 +25,11 @@
 
 <li><a href="#"><b>HOME</b></a>
 
-</li><li><a href="#"><b>TEACHING</b></a>
-<ul>
-<li><a href="#"><b>MYANMAR</b></a></li>
-<li><a href="#"><b>ENGLISH</b></a></li>
-<li><a href="#"><b>PHYSICS</b></a></li>
-<li><a href="#"><b>OOP(101)</b></a></li>
-<li><a href="#"><b>MATHEMATICS(102)</b></a></li>
-</ul>
-</li><li><a href="#"><b>ACTIVITIES</b></a>
-<ul>
-<li><a href="#"><b>CLASS ACTIVITIES</b></a></li>
-<li><a href="#"><b>UNIVERSITY ACTIVITIES</b></a></li>
-
-</ul>
-</li><li><a href="#"><b>ATTENDANCE</b></a>
-<ul>
-<li><a href="#"><b>SUBJECT ATTENDANCE</b></a></li>
-<li><a href="#"><b>TOTAL ATTENDACNE</b></a></li>
-
-</ul>
+</li><li><a href="teachingfirst.htm"><b>TEACHING</b></a>
+</li><li><a href="teachingactivitiesfirst.htm"><b>ACTIVITIES</b></a>
+</li><li><a href="teachngattendancefirst.htm"><b>ATTENDANCE</b></a>
 </li>
+</ul>
 </div>
 <h1 ><center > <p style="color:black" style=background-color:gray ><b>HELLO ALL FIRSTYEAR STUDENTS</b></p></center></h1>
 <marquee WIDTH=1150 HEIGHT=120 BEHAVIOR=SCROLL BGCOLOR=GRAY ><h1 ><center > 

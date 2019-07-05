@@ -26,30 +26,11 @@
 
 <li><a href="#"><b>HOME</b></a>
 
-</li><li><a href="#"><b>TEACHING</b></a>
-<ul>
-<li><a href="#">ENGLISH</a></li>
-<li><a href="#">OS(301)</a></li>
-<li><a href="#">MATHEMATICS(302)</a></li>
-<li><a href="#">DC AND DN(303)</a></li>
-<li><a href="#">DBMS(304)</a></li>
-<li><a href="#">C#(305)</a></li>
-<li><a href="#">MARKETING(305)</a></li>
-<li><a href="#">ETHICS(306)</a></li>
-</ul>
-</li><li><a href="#"><b>ACTIVITIES</b></a>
-<ul>
-<li><a href="#">CLASS ACTIVITIES</a></li>
-<li><a href="#">UNIVERSITY ACTIVITIES</a></li>
-
-</ul>
-</li><li><a href="#"><b>ATTENDANCE</b></a>
-<ul>
-<li><a href="#">SUBJECT ATTENDANCE</a></li>
-<li><a href="#">TOTAL ATTENDACNE</a></li>
-
-</ul>
+</li><li><a href="teachingthirdcs.htm"><b>TEACHING</b></a>
+</li><li><a href="teachingactivitiesthirdcs.htm"><b>ACTIVITIES</b></a>
+</li><li><a href="teachingattendancethirdcs.htm"><b>ATTENDANCE</b></a>
 </li>
+</ul>
 </div>
 
    <h1 ><center > <p style="color:black" style=background-color:gray ><b>HELLO ALL THIRDYEAR CS STUDENTS</b></p></center></h1>

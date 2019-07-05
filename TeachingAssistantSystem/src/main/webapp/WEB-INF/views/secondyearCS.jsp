@@ -18,7 +18,7 @@
  <div id="breadcrumb" style="color:gray"> 
  <a href="welcome.htm" title="Go to Home" class="tip-bottom" style="color:white" style="fontsize:large"><b><i class="icon-home"></i> Home</b></a> 
  <a href="#" class="tip-bottom" style="color:white" style="fontsize:large"><b>SECOND YEAR CS</b></a> 
-
+  
 </div>
 
 <div class="css_menu_two_line" style="color:white">
@@ -26,30 +26,11 @@
 
 <li><a href="#"><b>HOME</b></a>
 
-</li><li><a href="#"><b>LEARNING</b></a>
-<ul>
-
-<li><a href="#">ENGLISH</a></li>
-<li><a href="#">JAVA(201)</a></li>
-<li><a href="#">MATHEMATICS(202)</a></li>
-<li><a href="#">DATA STRUCIURE(203)</a></li>
-<li><a href="#">OOSD(204)</a></li>
-<li><a href="#">HCI/JS(205)</a></li>
-<li><a href="#">SE/SAD(206)</a></li>
-</ul>
-</li><li><a href="#"><b>ACTIVITIES</b></a>
-<ul>
-<li><a href="#">CLASS ACTIVITIES</a></li>
-<li><a href="#">UNIVERSITY ACTIVITIES</a></li>
-
-</ul>
-</li><li><a href="#"><b>ATTENDANCE</b></a>
-<ul>
-<li><a href="#">SUBJECT ATTENDANCE</a></li>
-<li><a href="#">TOTAL ATTENDACNE</a></li>
-
-</ul>
+</li><li><a href="learningsecondcs.htm"><b>LEARNING</b></a>
+</li><li><a href="activitiessecondcs.htm"><b>ACTIVITIES</b></a>
+</li><li><a href="attendancesecondcs.htm"><b>ATTENDANCE</b></a>
 </li>
+</ul>
 </div>
 
    <h1 ><center > <p style="color:black" style=background-color:gray ><b>HELLO ALL SECONDYEAR CS STUDENTS</b></p></center></h1>
