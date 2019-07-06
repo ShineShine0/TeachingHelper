@@ -8,7 +8,7 @@
 </head>
 <body>
 <div id="header">
- <a href="dashboard.html"> <h1>TEACHING ASSISTANT SYSTEM</h1></a>
+  <h1>TEACHING ASSISTANT SYSTEM</h1></a>
 </div>
 <!--close-Header-part--> 
 
@@ -17,7 +17,7 @@
   <ul class="nav">
     <li  class="dropdown" id="profile-messages" ><a title="" href="#" data-toggle="dropdown" data-target="#profile-messages" class="dropdown-toggle"><i class="icon icon-user"></i>  <span class="text">Welcome User</span><b class="caret"></b></a>
       <ul class="dropdown-menu">
-        <li><a href="#"><i class="icon-user"></i> My Profile</a></li>
+        <li><a href="profile.htm"><i class="icon-user"></i> My Profile</a></li>
         <li class="divider"></li>
         <li><a href="login.html"><i class="icon-key"></i> Log Out</a></li>
       </ul>

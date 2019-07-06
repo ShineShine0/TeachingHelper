@@ -28,6 +28,10 @@
 		<put-attribute name="title" value="login" />
 		<put-attribute name="body" value="/WEB-INF/views/login.jsp" />
 	</definition>
+	<definition name="profile" extends="base.definition">
+		<put-attribute name="title" value="login" />
+		<put-attribute name="body" value="/WEB-INF/views/profile.jsp" />
+	</definition>
 	
 	 <definition name="welcome" extends="base.definition">
 		<put-attribute name="title" value="" />

@@ -8,8 +8,9 @@
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 
 <style>
+
 </style>
-<title>Student View Page</title>
+<title></title>
 
 <link rel="stylesheet" type="text/css" href="<c:url value='/resources/submenucss/menu.css'/>" />
 </head>
@@ -19,16 +20,12 @@
 
  <div id="breadcrumb" style="color:gray"> 
  <a href="welcome.htm" title="Go to Home" class="tip-bottom" style="color:white" style="fontsize:large"><b><i class="icon-home"></i> Home</b></a> 
- <a href="studentmanagement.htm" class="tip-bottom" style="color:white" style="fontsize:large"><b>STUDENT MANAGEMENT</b></a> 
+ <a href="#" class="tip-bottom" style="color:white" style="fontsize:large"><b>MYPROFILE</b></a> 
 
 </div>
 <div class="container"> 
 
- <div class='container'>
-  <div class='content'>
-    
-  </div>
-</div>
+ 
      
 </div>
 

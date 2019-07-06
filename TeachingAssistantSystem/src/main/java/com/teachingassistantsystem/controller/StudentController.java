@@ -11,8 +11,12 @@ public class StudentController {
 
 	
 	@RequestMapping(value = "/login.htm")
-	public String loginelcome(Model model) {
+	public String loginwelcome(Model model) {
 		return "login";
+	}
+	@RequestMapping(value = "/profile.htm")
+	public String profilewelcome(Model model) {
+		return "profile";
 	}
 
 	@RequestMapping(value = "/welcome.htm")
