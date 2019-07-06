@@ -22,6 +22,14 @@
  <a href="#" class="tip-bottom" style="color:white" style="fontsize:large"><b>TEACHER MANAGEMENT</b></a> 
 
 </div>
+<div class="css_menu_two_line" style="color:white">
+<ul class="two_line_menu">
+
+<li><a href="#"><b>HOME</b></a></li>
+<li><a href="teacherregistration.htm"><b>REGISTRATION FORM</b></a></li>
+<li><a href="editteachermanagement.htm"><b>MANAGEMENT FORM</b></a></li>
+</ul>
+</div>
 
 
 

@@ -32,7 +32,7 @@ public class StudentController {
 	public String secondyearCSwelcome(Model model) {
 		return "secondyearCS";
 	}
-	@RequestMapping(value = "/secondyearCT.htm")
+	@RequestMapping(value = "/secondyearct.htm")
 	public String secondyearCTwelcome(Model model) {
 		return "secondyearCT";
 	}
@@ -40,15 +40,28 @@ public class StudentController {
 	public String thirdyearCSwelcome(Model model) {
 		return "thirdyearCS";
 	}
+	@RequestMapping(value = "/thirdyearct.htm")
+	public String thirdyearCTwelcome(Model model) {
+		return "thirdyearCT";
+	}
 	
 	@RequestMapping(value = "/fourthyear.htm")
 	public String fourthyearCSwelcome(Model model) {
 		return "fourthyearCS";
 	}
+	@RequestMapping(value = "/fourthyearct.htm")
+	public String fourthyearCTwelcome(Model model) {
+		return "fourthyearCT";
+	}
 
 	@RequestMapping(value = "/fifthyear.htm")
 	public String fifthyearCSwelcome(Model model) {
 		return "fifthyearCS";
+	}
+
+	@RequestMapping(value = "/fifthyearct.htm")
+	public String fifthyearCTwelcome(Model model) {
+		return "fifthyearCT";
 	}
 	
 	
@@ -98,22 +111,37 @@ public class StudentController {
 		return "activities";
 	}
 	@RequestMapping(value = "/activitiessecondcs.htm")
-	public String activitiessecondwelcome(Model model) {
+	public String activitiessecondcswelcome(Model model) {
 		return "activitiessecondcs";
 	}
+	@RequestMapping(value = "/activitiessecondct.htm")
+	public String activitiessecondctwelcome(Model model) {
+		return "activitiessecondct";
+	}
 	@RequestMapping(value = "/activitiesthirdcs.htm")
-	public String activitiesthirdwelcome(Model model) {
+	public String activitiesthirdcswelcome(Model model) {
 		return "activitiesthirdcs";
 	}
+	@RequestMapping(value = "/activitiesthirdct.htm")
+	public String activitiesthirdctwelcome(Model model) {
+		return "activitiesthirdct";
+	}
 	@RequestMapping(value = "/activitiesfourthcs.htm")
-	public String activitiesfourthwelcome(Model model) {
+	public String activitiesfourthcswelcome(Model model) {
 		return "activitiesfourthcs";
 	}
+	@RequestMapping(value = "/activitiesfourthct.htm")
+	public String activitiesfourthctwelcome(Model model) {
+		return "activitiesfourthct";
+	}
 	@RequestMapping(value = "/activitiesfifthcs.htm")
-	public String activitiesfifthwelcome(Model model) {
+	public String activitiesfifthcswelcome(Model model) {
 		return "activitiesfifthcs";
 	}
-	
+	@RequestMapping(value = "/activitiesfifthct.htm")
+	public String activitiesfifthctwelcome(Model model) {
+		return "activitiesfifthct";
+	}
 	
 	
 	
@@ -139,5 +167,7 @@ public class StudentController {
 		return "attendancefifthcs";
 	}
 	
+	
+
 	
 }

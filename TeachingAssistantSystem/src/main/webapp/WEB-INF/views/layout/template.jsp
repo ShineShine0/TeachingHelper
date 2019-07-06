@@ -15,8 +15,15 @@
 <link
 	href='http://fonts.googleapis.com/css?family=Open+Sans:400,700,800'
 	rel='stylesheet' type='text/css'>
+<style>
+
+ul, ol {
+    padding: 0;
+    margin: 0 0 10px 0px !important;
+}
+</style>
 </head>
-<body>
+
 <body>
 	<tiles:insertAttribute name="header" />
 	<tiles:insertAttribute name="menu" />

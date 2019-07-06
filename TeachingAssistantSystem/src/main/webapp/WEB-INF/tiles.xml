@@ -58,16 +58,32 @@
 		<put-attribute name="title" value="" />
 			<put-attribute name="body" value="/WEB-INF/views/thirdyearCS.jsp" />
 	</definition>
+	<definition name="thirdyearCT" extends="base.definition">
+		<put-attribute name="title" value="" />
+			<put-attribute name="body" value="/WEB-INF/views/thirdyearCT.jsp" />
+	</definition>
+	
 	
 	<definition name="fourthyearCS" extends="base.definition">
 		<put-attribute name="title" value="" />
 			<put-attribute name="body" value="/WEB-INF/views/fourthyearCS.jsp" />
+	</definition>
+	<definition name="fourthyearCT" extends="base.definition">
+		<put-attribute name="title" value="" />
+			<put-attribute name="body" value="/WEB-INF/views/fourthyearCT.jsp" />
 	</definition>
 	
 	<definition name="fifthyearCS" extends="base.definition">
 		<put-attribute name="title" value="" />
 			<put-attribute name="body" value="/WEB-INF/views/fifthyearCS.jsp" />
 	</definition>
+	<definition name="fifthyearCT" extends="base.definition">
+		<put-attribute name="title" value="" />
+			<put-attribute name="body" value="/WEB-INF/views/fifthyearCT.jsp" />
+	</definition>
+	
+	
+	
 	
 	<definition name="first" extends="base.definition">
 		<put-attribute name="title" value="" />
@@ -134,18 +150,8 @@
 			<put-attribute name="body" value="/WEB-INF/views/fifthyearctbook.jsp" />
 	</definition>
 	
-	<definition name="studentmanagement" extends="base.definition">
-		<put-attribute name="title" value="" />
-			<put-attribute name="body" value="/WEB-INF/views/studentmanagement.jsp" />
-	</definition>
-	<definition name="teachermanagement" extends="base.definition">
-		<put-attribute name="title" value="" />
-			<put-attribute name="body" value="/WEB-INF/views/teachermanagement.jsp" />
-	</definition>
-	<definition name="bookmanagement" extends="base.definition">
-		<put-attribute name="title" value="" />
-			<put-attribute name="body" value="/WEB-INF/views/bookmanagement.jsp" />
-	</definition>
+	
+	
 	
 	<definition name="learning" extends="base.definition">
 		<put-attribute name="title" value="" />
@@ -312,6 +318,54 @@
 		<put-attribute name="title" value="" />
 			<put-attribute name="body" value="/WEB-INF/views/teacherattendancefifthcs.jsp" />
 	</definition>
+	
+	
+	<definition name="studentmanagement" extends="base.definition">
+		<put-attribute name="title" value="" />
+			<put-attribute name="body" value="/WEB-INF/views/studentmanagement.jsp" />
+	</definition>
+	<definition name="studentregistration" extends="base.definition">
+		<put-attribute name="title" value="" />
+			<put-attribute name="body" value="/WEB-INF/views/studentregistration.jsp" />
+	</definition>
+	
+	<definition name="editstudentmanagement" extends="base.definition">
+		<put-attribute name="title" value="" />
+			<put-attribute name="body" value="/WEB-INF/views/editstudentmanagement.jsp" />
+	</definition>	
+	
+	
+	
+	<definition name="teachermanagement" extends="base.definition">
+		<put-attribute name="title" value="" />
+			<put-attribute name="body" value="/WEB-INF/views/teachermanagement.jsp" />
+	</definition>
+	<definition name="teacherregistration" extends="base.definition">
+		<put-attribute name="title" value="" />
+			<put-attribute name="body" value="/WEB-INF/views/teacherregistration.jsp" />
+	</definition>
+		
+	<definition name="editteachermanagement" extends="base.definition">
+		<put-attribute name="title" value="" />
+			<put-attribute name="body" value="/WEB-INF/views/editteachermanagement.jsp" />
+	</definition>
+	
+	
+	
+	<definition name="bookmanagement" extends="base.definition">
+		<put-attribute name="title" value="" />
+			<put-attribute name="body" value="/WEB-INF/views/bookmanagement.jsp" />
+	</definition>
+		<definition name="bookregistration" extends="base.definition">
+		<put-attribute name="title" value="" />
+			<put-attribute name="body" value="/WEB-INF/views/bookregistration.jsp" />
+	</definition>
+		
+	<definition name="editbookmanagement" extends="base.definition">
+		<put-attribute name="title" value="" />
+			<put-attribute name="body" value="/WEB-INF/views/editbookmanagement.jsp" />
+	</definition>
+	
 
 
 </tiles-definitions>

@@ -17,31 +17,19 @@
 <body >
 <div id="content">
 <div id="content-header">
+
  <div id="breadcrumb" style="color:gray"> 
  <a href="welcome.htm" title="Go to Home" class="tip-bottom" style="color:white" style="fontsize:large"><b><i class="icon-home"></i> Home</b></a> 
- <a href="#" class="tip-bottom" style="color:white" style="fontsize:large"><b>STUDENT MANAGEMENT</b></a> 
+ <a href="teachermanagement.htm" class="tip-bottom" style="color:white" style="fontsize:large"><b>TEACHER MANAGEMENT</b></a> 
 
 </div>
-<div class="css_menu_two_line" style="color:white">
-<ul class="two_line_menu">
+<div class="container"> 
 
-<li><a href="#"><b>HOME</b></a></li>
-<li><a href="studentregistration.htm"><b>REGISTRATION FORM</b></a></li>
-<li><a href="editstudentmanagement.htm"><b>MANAGEMENT FORM</b></a></li>
-</ul>
+ 
+     
 </div>
 
-
-
-
-
-
-
-
-
-
 </div>
-
 </div>
 </body>
 </html>
