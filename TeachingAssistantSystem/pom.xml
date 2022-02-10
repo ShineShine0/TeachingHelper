@@ -115,7 +115,7 @@ xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xs
 		<dependency>
 			<artifactId>hibernate-core</artifactId>
 			<groupId>org.hibernate</groupId>
-			<version>4.3.5.Final</version>
+			<version>5.4.24.Final</version>
 		</dependency>
 		<dependency>
 			<groupId>org.hibernate</groupId>
